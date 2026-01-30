@@ -1,0 +1,12 @@
+cd /home/gabriel/Projetos/python/flytbot
+
+source .venv/bin/activate
+
+
+
+
+python identificador_pdf.py "/home/gabriel/Downloads/Guias/Federal/Todos Impostos/28 11 2025 2º COTA IRPJ 3º TRIMESTRE - COELHO&FREITASpdf.pdf"
+
+
+
+python identificador_pdf.py "/home/gabriel/Downloads/Guias/Estaduais/ICMS/FL 02 RF 12.pdf"
